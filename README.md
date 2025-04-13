@@ -19,5 +19,5 @@ This project demonstrates a complete pipeline to recognize **handwritten Hindi t
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/hindi-handwritten-ocr-nlp.git
-cd hindi-handwritten-ocr-nlp
+git clone https://github.com/NishthaShakya/Hindi-OCR-APP.git
+cd Hindi-OCR-APP
