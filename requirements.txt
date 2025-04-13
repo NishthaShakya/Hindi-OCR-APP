@@ -1,4 +1,6 @@
 streamlit>=1.44.0
 easyocr
+opencv-python
+pillow
 stanza
-indic-nlp-library<=2.0.0
+indic-nlp-library
