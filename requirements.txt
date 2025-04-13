@@ -1,0 +1,4 @@
+streamlit==1.2.3
+easyocr>=1.0.0
+stanza
+indic-nlp-library<=2.0.0
